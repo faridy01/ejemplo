@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-color: white;}
+
+  #contenedor{width: 1200px;
+   height: 800px;
+   background-color: gold;
+    margin: auto;
+    color:black;
+   font-size: 30px;
+   text-align: center;}
+
+header{width: 1200px;
+       height: 270px;
+	   background-color:gold;
+	   
+	   padding-top: 10px;}
+
+#titulo{color:black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 25px;
+	width: 380px;
+	height: 250px;	
+	float:left;
+}
+
+#slog{color:black;
+	font-size: 15px;
+	width: 630px;
+	height: 240px;
+	float:right;}
+
+nav {width: 1200px;
+     height: 80px;
+	border:white 3px solid;
+	background-color:black;
+	padding-top: 0px;}
+a{margin-left:80px }
+
+aside{width: 910px;
+        height: 770px;
+	font-size: 10;
+	background-color:white;
+	float:left;
+	color: white}
+
+
+
+section{width: 290px;
+        height: 770px;
+	font-size: 10;
+	background-color:grey;
+	float:left;
+        color: white}
+
+#slog2{color:black;
+	font-size: 15px;
+	width: 290px;
+	height: 465px;
+	float:right;}
+
+#slog3{color:black;
+	font-size: 15px;
+	width: 210px;
+	height: 300px;
+	float:right;}
+
+#slog4{color:black;
+	font-size: 15px;
+	width: 210px;
+	height: 300px;
+	float:right;}
+
+#slog5{color:black;
+	font-size: 15px;
+	width: 210px;
+	height: 300px;
+	float:right;}
+
+#slog6{color:black;
+	font-size: 15px;
+	width: 210px;
+	height: 300px;
+	float:right;}
+
+#slog7{color:black;
+	font-size: 15px;
+	width: 210px;
+	height: 300px;
+	float:right;}
+
+
+
+
+footer{width: 1200px;
+	height: 100px;
+	background-color: gold;
+        border:white 3px solid;
+	clear: both;
+	color: red;}
